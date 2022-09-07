@@ -1,7 +1,6 @@
 # Linear Algebra
-
-The project replicates the main alghoritms used in linear algebra.
-The function follow the contents of the course in Linear Algebra (18.06) teached by professor Gilbert Strang at MIT, freely available on [YouTube](https://youtube.com/playlist?list=PL49CF3715CB9EF31D).
+The project's goal is to replicate the most important algorithms used in linear algebra.
+The functions are based on the content of Professor Gilbert Strang's Linear Algebra (18.06) course at MIT, which is freely available on [YouTube](https://youtube.com/playlist?list=PL49CF3715CB9EF31D).
 
 Even though these functions are available in all major programming software and have been perfected for calculation speed and accuracy, I attempted to write them from scratch in order to practise my Python skills and better understand the concepts covered in the course.
 
