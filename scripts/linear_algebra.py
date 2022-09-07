@@ -1,10 +1,7 @@
-from math import factorial
-
 import numpy as np
-import pandas as pd
-from tqdm import tqdm
-
 from numpy.linalg import eigvals
+
+from tqdm import tqdm
 
 def PLU(A):
     """ PLU Decomposition:
