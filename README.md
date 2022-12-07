@@ -29,5 +29,4 @@ Even though these functions are available in all major programming software and 
 
 ### Note on eigenvalues
 
-In a separate script, I attempted to develop a function that calculates the eigenvalues using the QR factorization, where Q is the Gram-Schimdt decomposition of A. However, because it deals with complex numbers and other large problems, this is one of the most complex algorithms ever created.
-I kept it separate since the version I created only works on specific matrices. I'll endeavour to finish it, and I'll keep the repository updated with any new developments.
+In a separate script, I attempted to develop a function that calculates the eigenvalues using the QR factorization, where Q is the Gram-Schimdt decomposition of A. However, its complexity is beyond the scope of this repository, so kept it separate. I'll endeavour to finish it, and I'll keep the repository updated with any new developments.
