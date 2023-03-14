@@ -29,4 +29,4 @@ Even though these functions are available in all major programming software and 
 
 ### Note on eigenvalues
 
-In a separate script, I attempted to develop a function that calculates the eigenvalues using the QR factorization, where Q is the Gram-Schimdt decomposition of A. However, its complexity is beyond the scope of this repository, so kept it separate. I'll endeavour to finish it, and I'll keep the repository updated with any new developments.
+In a separate script, I attempted to develop a function that calculates the eigenvalues using the QR factorization, where Q is the Gram-Schimdt decomposition of A. However, its complexity is beyond the scope of this repository, so I kept it separate. I'll endeavour to finish it, and I'll keep the repository updated with any new developments.
